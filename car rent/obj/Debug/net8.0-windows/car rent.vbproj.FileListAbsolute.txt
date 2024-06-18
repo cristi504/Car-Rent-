@@ -1,0 +1,18 @@
+D:\proiecte bpo\car rent\car rent\bin\Debug\net8.0-windows\car rent.exe
+D:\proiecte bpo\car rent\car rent\bin\Debug\net8.0-windows\car rent.deps.json
+D:\proiecte bpo\car rent\car rent\bin\Debug\net8.0-windows\car rent.runtimeconfig.json
+D:\proiecte bpo\car rent\car rent\bin\Debug\net8.0-windows\car rent.dll
+D:\proiecte bpo\car rent\car rent\bin\Debug\net8.0-windows\car rent.pdb
+D:\proiecte bpo\car rent\car rent\obj\Debug\net8.0-windows\car_rent.Form1.resources
+D:\proiecte bpo\car rent\car rent\obj\Debug\net8.0-windows\car_rent.Form2.resources
+D:\proiecte bpo\car rent\car rent\obj\Debug\net8.0-windows\car rent.vbproj.GenerateResource.cache
+D:\proiecte bpo\car rent\car rent\obj\Debug\net8.0-windows\car rent.GeneratedMSBuildEditorConfig.editorconfig
+D:\proiecte bpo\car rent\car rent\obj\Debug\net8.0-windows\car rent.AssemblyInfoInputs.cache
+D:\proiecte bpo\car rent\car rent\obj\Debug\net8.0-windows\car rent.AssemblyInfo.vb
+D:\proiecte bpo\car rent\car rent\obj\Debug\net8.0-windows\car rent.vbproj.CoreCompileInputs.cache
+D:\proiecte bpo\car rent\car rent\obj\Debug\net8.0-windows\car rent.dll
+D:\proiecte bpo\car rent\car rent\obj\Debug\net8.0-windows\refint\car rent.dll
+D:\proiecte bpo\car rent\car rent\obj\Debug\net8.0-windows\car rent.pdb
+D:\proiecte bpo\car rent\car rent\obj\Debug\net8.0-windows\car rent.genruntimeconfig.cache
+D:\proiecte bpo\car rent\car rent\obj\Debug\net8.0-windows\ref\car rent.dll
+D:\proiecte bpo\car rent\car rent\obj\Debug\net8.0-windows\car_rent.Resources.resources
